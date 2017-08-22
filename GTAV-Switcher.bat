@@ -28,7 +28,7 @@ ren "Grand Theft Auto V Modded" "Grand Theft Auto V"
 goto done
 
 :noselect
-echo You have not selected anything!
+echo You have not selected an option. Closing...
 goto finished
 
 :done
